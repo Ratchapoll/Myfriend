@@ -81,8 +81,10 @@ nav.navbar.navbar-expand-lg {
   padding: 10px 20px;
   color: #2d2c2c;
   font-size: 15px;
+  font-weight: 600;
   text-align: center;
   text-transform: uppercase;
+  font-family: 'Noto Sans Thai', sans-serif;
 }
 
 .custom_nav-container.navbar-expand-lg .navbar-nav .nav-item.active .nav-link {
